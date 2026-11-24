@@ -10,8 +10,9 @@ Why this line (judge brief, criteria in order):
 2. Machine's own world: coils that spin to dispense, a dollar in the
    slot. A coil jamming is the machine's own, very specific failure.
 3. The laugh is the turn at the end: the coils work for everyone with
-   a dollar — they only jam for you. The machine is stuck on you, in
-   the most literal, mechanical sense.
+   a dollar — they only jam for you. A jammed coil stops mid-turn with
+   the snack stuck behind the glass, so the machine is stuck on you in
+   the most literal, mechanical sense: it has stopped working, for you.
 4. One breath (72 characters), no setup, no explanation after it.
 5. Charming, not creepy: a jam is a small, helpless malfunction, and
    the machine is the one embarrassed, not the human.
